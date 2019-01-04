@@ -1,0 +1,1 @@
+wsimport -s “src目录” -p “生成类所在包名” -keep “wsdl发布地址”
